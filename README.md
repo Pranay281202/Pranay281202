@@ -7,6 +7,6 @@
 
 🐍 Proficient in Python, I leverage it for various tasks, including data manipulation, analysis, and the development of machine learning models.
 
-📊 My proficiency extends to Power BI and Tableau, where I excel in creating visualizations and dashboards to effectively communicate complex data findings.
+📊 My proficiency extends to Power BI and Tableau, where creating visualizations and dashboards to effectively communicate complex data findings.
 
 📚 I am committed to continuous learning, consistently exploring new concepts and staying abreast of industry trends within the dynamic field of data science.
