@@ -1,7 +1,8 @@
 # 🌟 About Me
 👋 Hi there, I'm Pranay Dilip Salkar
 
-💡 I am a committed Data Science professional with a strong dedication to utilizing data to extract meaningful insights and address complex challenges. Completed BSc in Data Science, I have a robust understanding of data analytics and machine learning.
+💡 I am a committed Data Science professional with a strong dedication to utilizing data to extract meaningful insights and address complex challenges.
+Completed BSc in Data Science, I have a robust understanding of data analytics and machine learning.
 
 🎓 I graduated with a BSc in Data Science, acquiring a solid foundation in data analytics and machine learning.
 
