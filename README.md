@@ -6,7 +6,7 @@ Completed BSc in Data Science, I have a robust understanding of data analytics a
 
 🎓 I graduated with a BSc in Data Science, acquiring a solid foundation in data analytics and machine learning.
 
-🐍 Proficient in Python, I leverage it for various tasks, including data manipulation, analysis, and the development of machine learning models.
+🐍 Proficient in Python, It's workfull in various tasks, including data manipulation, analysis, and the development of machine learning models.
 
 📊 My proficiency extends to Power BI and Tableau, where creating visualizations and dashboards to effectively communicate complex data findings.
 
